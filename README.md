@@ -33,9 +33,6 @@ cd multiple-linear-regression
 ## Results
 The model's performance metrics, such as R-squared and Mean Squared Error, are printed in the notebook. Additionally, a learning curve is plotted to visualize the model's performance with varying training set sizes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - `Inspiration`: This project is inspired by the need to implement a multiple linear regression model for predicting house prices.
 - `References`: The code includes scikit-learn library for machine learning functionalities. The dataset is downloaded from Kaggle.
