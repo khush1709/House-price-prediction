@@ -31,7 +31,7 @@ cd multiple-linear-regression
 2. Customize the code based on your own dataset and requirements.
 
 ## Results
-The model's performance metrics, such as R-squared and Mean Squared Error, are printed in the notebook. Additionally, a learning curve is plotted to visualize the model's performance with varying training set sizes.
+The model's performance metrics, such as R-squared and Mean Squared Error, are printed in the notebook.
 
 ## Acknowledgments
 - `Inspiration`: This project is inspired by the need to implement a multiple linear regression model for predicting house prices.
