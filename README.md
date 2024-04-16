@@ -24,7 +24,7 @@ pip install numpy matplotlib scikit-learn pandas
 ##  Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/multiple-linear-regression.git
+git clone https://github.com/khush1709/House-price-prediction.git
 cd multiple-linear-regression
 ```
 1. Open and run the multiple_linear_regression.ipynb notebook in a Jupyter environment.
