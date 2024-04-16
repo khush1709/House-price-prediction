@@ -8,10 +8,8 @@ The goal of this project is to demonstrate the implementation of a multiple line
 
 ## Contents
 
-- `multiple_linear_regression.ipynb`: Jupyter Notebook containing the code implementation.
+- `House_price_prediction.ipynb`: Jupyter Notebook containing the code implementation.
 - `data.csv`: Sample dataset with features and target variable for house prices.
-- `lab_utils_multi.py`: Utility functions (not provided) for loading house data.
-- `lab_utils_common.py`: Common utility functions (not provided).
 
 ## Dependencies
 
@@ -25,9 +23,9 @@ pip install numpy matplotlib scikit-learn pandas
 1. Clone the repository:
 ```bash
 git clone https://github.com/khush1709/House-price-prediction.git
-cd multiple-linear-regression
+cd House-price-prediction
 ```
-1. Open and run the multiple_linear_regression.ipynb notebook in a Jupyter environment.
+1. Open and run the House_price_prediction.ipynb notebook in a Jupyter environment.
 2. Customize the code based on your own dataset and requirements.
 
 ## Results
